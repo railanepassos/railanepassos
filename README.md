@@ -9,10 +9,14 @@
 
 </br>
 
-## ⚡ Technologies
+## ⚡ Technologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+![Robot Framework](https://img.shields.io/badge/-RobotFramework-black?style=flat-square&logo=robotframework)
+![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium)
+
+
 
 </br>
 
