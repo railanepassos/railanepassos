@@ -14,6 +14,8 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
 
+</br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=railanepassos)](https://github.com/anuraghazra/github-readme-stats)
 ![?gatinho-github](https://github.githubassets.com/images/mona-whisper.gif)
 
