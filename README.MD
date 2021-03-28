@@ -2,11 +2,15 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/railanepassos/)
 [![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/railanepassos)
 
-## 👋 Olá pessoas
+## 👋 Olá , me chamo Railane
 
-- 🔭 Atualmente trabalho como Analista de Qualidade na Cubos Tecnologia
-- 🌱 Estudante de Desenvolvimento Web Full Stack na Cubos Academy
+- 🔭 Analista de Qualidade e Squad Lider.
+- 🌱 Sempre em constante crescimento.
+- 🌱 Estudante de Desenvolvimento Web Full Stack na Cubos Academy.
+- 🌱 Apaixonada pela familia, trabalho, animais e rotina.
 
+<!--
+**railanepassos/railanepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 </br>
 
 ## ⚡ Technologies
@@ -15,13 +19,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
 
 </br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=railanepassos)](https://github.com/anuraghazra/github-readme-stats)
-![?gatinho-github](https://github.githubassets.com/images/mona-whisper.gif)
-
-
-<!--
-**railanepassos/railanepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
