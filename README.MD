@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/railanepassos/)
 [![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/railanepassos)
 
-## 👋 Olá , me chamo Railane
+## 👋 Olá, me chamo Railane
 
 🔭 Analista de Qualidade e Squad Lider.</br>
 🌱 Sempre em constante crescimento.</br>
