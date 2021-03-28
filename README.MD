@@ -1,60 +1,36 @@
-<style>
-    div {
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        padding-top: 10px;
-        padding-left: 10px;
-        font-size: 12px;
-    }
-    div > h3 {
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 16px;
-    }
-</style>
-<div>
-      
-    <h3>Eu sou Analista de Qualidade e Squad Lider</h3>
-    <span style='font-size:15px;'>&#128030</span> Sempre em constante crescimento.
-    </br>
-    <span style='font-size:15px;'>&#128030</span> Estudante de Desenvolvimento Web Full Stack na Cubos Academy.
-    </br>
-    <span style='font-size:15px;'>&#128030</span> Apaixonada pela familia, trabalho, animais e rotina. 
-    </br>
-</div>
+[![Twiter](https://img.shields.io/twitter/follow/railanepassos?style=social)](https://twitter.com/passosrailane)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/railanepassos/)
+[![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/railanepassos)
 
-<div>
+## 👋 Olá pessoas
 
-    <h3>Você me encontrara em<h3></h3>    
-    <span style="padding-left: 10px;">
-        <a href="https://www.linkedin.com/in/railanepassos/" target="_blanck">
-            <img src="linkedin.svg" alt="logo linkedin" height="20" width="20">    
-        </a>
-    </span>
-    <span style="padding: 10px;">
-        <a href="https://twitter.com/passosrailane" target="_blanck"> 
-            <img src="twitter.svg" alt="logo linkedin" height="20" width="20">    
-        </a>
-    </span>
-    <a href="https://www.twitch.tv/railanepassos" target="_blanck"></a>
-        <img src="twitch.svg" alt="logo linkedin" height="20" width="20" >    
-    </a>
+- 🔭 Atualmente trabalho como Analista de Qualidade na Cubos Tecnologia
+- 🌱 Estudante de Desenvolvimento Web Full Stack na Cubos Academy
 
-</div>  
+</br>
 
-<div>
-    
-    <h3>Estátisticas Github</h3>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railanepassos&layout=compact&theme=dracula" width="400px" height="157px"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=railanepassos&show_icons=true&theme=dracula" width="400px"/> 
-</div>
+## ⚡ Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
 
+</br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=railanepassos)](https://github.com/anuraghazra/github-readme-stats)
+![?gatinho-github](https://github.githubassets.com/images/mona-whisper.gif)
 
 
 <!--
+**railanepassos/railanepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
-
-
-
-
-
