@@ -1,10 +1,6 @@
-[![Twiter](https://img.shields.io/twitter/follow/railanepassos?style=social)](https://twitter.com/passosrailane)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/railanepassos/)
-[![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/railanepassos)
+## 👋 Olá pessoas, me chamo Rai
 
-## 👋 Olá pessoas
-
-- 🔭 Atualmente trabalho como Analista de Qualidade na Cubos Tecnologia
+- 🔭 Atualmente trabalhando como **QA**
 - 🌱 Estudante de Desenvolvimento Web Full Stack na Cubos Academy
 
 </br>
@@ -16,16 +12,21 @@
 ![Robot Framework](https://img.shields.io/badge/-RobotFramework-black?style=flat-square&logo=robotframework)
 ![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=appium)
 
+</br>
+
+## 📫 Me encontre em
+[![Twiter](https://img.shields.io/twitter/follow/railanepassos?style=social)](https://twitter.com/passosrailane)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/railanepassos/)
+[![Twitch](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/railanepassos)
+
+<!--
+**railanepassos/railanepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=railanepassos)](https://github.com/anuraghazra/github-readme-stats)
 ![?gatinho-github](https://github.githubassets.com/images/mona-whisper.gif)
-
-
-<!--
-**railanepassos/railanepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
