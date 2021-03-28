@@ -4,10 +4,10 @@
 
 ## 👋 Olá , me chamo Railane
 
-- 🔭 Analista de Qualidade e Squad Lider.
-- 🌱 Sempre em constante crescimento.
-- 🌱 Estudante de Desenvolvimento Web Full Stack na Cubos Academy.
-- 🌱 Apaixonada pela familia, trabalho, animais e rotina.
+🔭 Analista de Qualidade e Squad Lider.</br>
+🌱 Sempre em constante crescimento.</br>
+🌱 Estudante de Desenvolvimento Web Full Stack na Cubos Academy.</br>
+🌱 Apaixonada pela familia, trabalho, animais e rotina.
 
 <!--
 **railanepassos/railanepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
