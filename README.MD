@@ -6,7 +6,6 @@
 
 🔭 Analista de Qualidade e Squad Lider.</br>
 🌱 Sempre em constante crescimento.</br>
-🌱 Estudante de Desenvolvimento Web Full Stack na Cubos Academy.</br>
 🌱 Apaixonada pela familia, trabalho, animais e rotina.
 
 <!--
