@@ -4,7 +4,6 @@
 
 ## 👋 Olá, me chamo Railane
 
-🔭 Analista de Qualidade e Squad Lider.</br>
 🌱 Sempre em constante crescimento.</br>
 🌱 Apaixonada pela familia, trabalho, animais e rotina.
 
