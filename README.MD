@@ -4,7 +4,7 @@
 
 ## 👋 Olá, me chamo Railane
 
-🌱 Sempre em constante crescimento.</br>
+🌱 Sempre aprendendo algo novo.</br>
 🌱 Apaixonada pela familia, trabalho, animais e rotina.
 
 <!--
