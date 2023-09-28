@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working at [Ci&T](https://ciandt.com/) as Quality Analyst in a e-commerce product. I work mainly with process analisys, risk analisys, root cause analisys, test plan, interactive tests, mobile automation tests, python, pytest, appium, github. I've worked on web projects here with javascript and cypress.
-- 🔙 Previously, I worked at [Cubos](http://www.redhat.com/) as Quality Analyst in differents projects. Here I worked mainly with Javascript, Cypress, GitLab, Github
+- 🔙 Previously, I worked at [Cubos](http://www.redhat.com/) as Quality Analyst in differents projects. Here I worked mainly with Javascript, Cypress, GitLab, Github.
 - 👩‍💻 +5 years of experience with software quality.
 - 👯 I’m looking to collaborate on open-source.
 - 💬 Ask me about software testing and software automation.
 - 😄 Pronouns: She/Her.
-- 🤘 Hobbies: dancing, running, cycling, reading, swimming, watching series and movies
+- 🤘 Hobbies: dancing, running, cycling, reading, swimming, watching series and movies.
 
 ## 📫 Get in touch:
 
