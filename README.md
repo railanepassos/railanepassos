@@ -1,15 +1,13 @@
-## Hi there 👋
+## Hello! 👋
 
-- 🎯 I currently work as a Quality Assurance Engineer at [Digibee](https://www.digibee.com/) a platform that minimizes costs and complexity while enabling rapid digital transformation.
-- 🔙 Previously, I work at [Ci&T](https://ciandt.com/br/) as System Quality Analyst in a e-commerce product. I've worked mainly with process analysis, risk analysis, root cause analysis, test plans, interactive tests, maintenance and implementation of automated tests, on the mobile platform with python, pytest, appium and git technologies and on the web platform with javascript and cypress. Here I learned a lot about how a large company works, beyond delivering a minimum viable product, and I met incredible people who gave me the opportunity to share my knowledge and taught me a lot of cool stuff.
-- 🔙 Previously, I worked at [Cubos](http://www.cubos.io/) as Quality Analyst in differents projects. Here I worked mainly with Javascript, Cypress, GitLab, Github.
-- 👩‍💻 +5 years of experience with software quality.
-- 💬 Ask me about software testing, software automation and quality process.
+- 🎯 **Current Role**: I am a **Quality Assurance Engineer** at [Digibee](https://www.digibee.com/), where we simplify digital transformation, reducing costs and complexity through a robust platform.
+- 🔙 **Previous Experience**: I worked as a **System Quality Analyst** at [Ci&T](https://ciandt.com/br/), specializing in e-commerce products. I focused on **process analysis**, **risk assessment**, **root cause analysis**, **test plans**, and **interactive testing**. I implemented **automated tests** on both mobile (using **Python**, **pytest**, **Appium**, and **Git**) and web platforms (with **JavaScript** and **Cypress**). This role deepened my understanding of large-scale company operations and the importance of delivering a **minimum viable product**.
+- 🔙 **Earlier Roles**: At [Cubos](http://www.cubos.io/), I was a **Quality Analyst** working on diverse projects, with hands-on experience in **JavaScript**, **Cypress**, **GitLab**, and **GitHub**.
+- 👩‍💻 **5+ years of expertise** in **software quality**, specializing in test automation and process improvement.
+- 💬 Let’s talk about **software testing**, **automation**, and **quality processes**!
 
-## 📫 Get in touch:
-
-- LinkedIn: [@railanepassos](https://www.linkedin.com/in/railanepassos/)
-
-![Railane github stats](https://github-readme-stats.vercel.app/api?username=railanepassos&show_icons=true&theme=radical)
+## 📫 Let's connect:
+- My website: [railanepassos.tec.br](https://railanepassos.tec.br/)
+- LinkedIn: [in/railanepassos](https://www.linkedin.com/in/railanepassos/)
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=railanepassos&hide=html&layout=compact&theme=buefy" />
